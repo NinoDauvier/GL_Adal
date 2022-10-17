@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1730db0-a28b-46e7-9abc-783fac9e1e6a" name="Changes" comment="Graphic init">
-      <change afterPath="$PROJECT_DIR$/src/Gameplay/Background.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gameplay/Gameplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gameplay/IPersonnage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gameplay/Personnage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +32,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2Fwngz4egr3bU7lQrSOG6ngdKuz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +42,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../elevator-template4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -57,10 +52,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <module name="GL Adal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,6 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665412134655</updated>
+      <workItem from="1665913281193" duration="4240000" />
     </task>
     <task id="LOCAL-00001" summary="Initial package">
       <created>1665413329400</created>
@@ -89,8 +81,10 @@
       <option name="project" value="LOCAL" />
       <updated>1665413435382</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -105,8 +99,5 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial package" />
-    <MESSAGE value="Graphic init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Graphic init" />
   </component>
 </project>
